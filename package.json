@@ -1,0 +1,23 @@
+{
+  "name": "cli-application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DubeiA/CLI-application.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DubeiA/CLI-application/issues"
+  },
+  "homepage": "https://github.com/DubeiA/CLI-application#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
