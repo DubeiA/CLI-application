@@ -19,5 +19,8 @@
   "homepage": "https://github.com/DubeiA/CLI-application#readme",
   "devDependencies": {
     "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "commander": "^10.0.0"
   }
 }
